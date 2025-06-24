@@ -26,6 +26,8 @@ Actualmente estoy enfocado en desarrollar bots y herramientas que optimicen proc
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Slingshot](https://img.shields.io/badge/Slingshot-FF4F00?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
